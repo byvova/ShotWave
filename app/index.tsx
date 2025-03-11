@@ -4,7 +4,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Home from '@/pages/Home';
 import Profile from '@/pages/Profile';
 import SearchBar from '@/pages/SearchBar';
-import { firebase } from '@react-native-firebase/app';
+// import { firebase } from '@react-native-firebase/app';
 
 const Stack = createNativeStackNavigator();
 
